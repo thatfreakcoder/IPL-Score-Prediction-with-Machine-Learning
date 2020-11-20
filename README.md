@@ -44,4 +44,4 @@ The dataset can be downloaded from [Kaggle here](https://www.kaggle.com/yuvrajda
 
 ## Webapp Deployment
 The final model is deployed [here](https://ipl-predict-score.herokuapp.com)</br>
-Github Code of Webapp can be found [here](https://github.com/thatfreakcoder/ipl-predict-score).
+Github Code of Webapp can be found [here](https://github.com/thatfreakcoder/ipl-predict-score).  
