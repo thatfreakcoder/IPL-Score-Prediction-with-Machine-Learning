@@ -1,5 +1,5 @@
 # IPL Score Prediction with Machine Learning
-![https://colab.research.google.com/github/thatfreakcoder/IPL-Score-Prediction-with-Machine-Learning/blob/master/IPL_Prediction_Model_Training.ipynb](https://colab.research.google.com/assets/colab-badge.svg)</br>
+Open in [Google Colab](https://colab.research.google.com/github/thatfreakcoder/IPL-Score-Prediction-with-Machine-Learning/blob/master/IPL_Prediction_Model_Training.ipynb#scrollTo=9AjtN9yMEmT0)</br>
 Predict the First Inning score of an Indian Premier League (IPL) Match using machine learning algorithms.</br>
 ## Dataset
 The dataset can be downloaded from [Kaggle here](https://www.kaggle.com/yuvrajdagur/ipl-dataset-season-2008-to-2017).
